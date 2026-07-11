@@ -1,0 +1,9 @@
+{
+  "name": "Pugh Family Calendar",
+  "short_name": "Calendar",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1a3a5c",
+  "description": "Upcoming events, trips, camps, and childcare planning for the Pugh family"
+}
